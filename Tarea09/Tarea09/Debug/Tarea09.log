@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\marcos\documents\sae\6to trimestre\poo3\tareas\tarea09\tarea09\main.cpp(111): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\marcos\documents\sae\6to trimestre\poo3\tareas\tarea09\tarea09\main.cpp(119): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tarea09.vcxproj -> C:\Users\Marcos\Documents\SAE\6to Trimestre\POO3\Tareas\Tarea09\Debug\Tarea09.exe
